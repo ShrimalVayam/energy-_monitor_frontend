@@ -1,0 +1,9 @@
+export { default as Login } from './Login';
+export { default as Register } from './Register';
+export { default as Devices } from './Devices';
+export { default as DeviceDetail } from './DeviceDetail';
+export { default as CreateTelemetry } from './CreateTelemetry';
+export { default as CreateDevice } from './CreateDevice';
+export { default as Chat } from './Chat';
+export { default as Dashboard } from './Dashboard';
+export { default as Analytics } from './Analytics';
